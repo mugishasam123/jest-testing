@@ -2,7 +2,7 @@
 
 # jest testing
 
-> jest testing
+> Jest is an open-source testing framework built on JavaScript, designed majorly to work with React and React Native based web applications
 > 
 
 ![screenshot](https://user-images.githubusercontent.com/90524466/156640706-ecae8a7a-dbaf-46be-bf25-371273488f17.png)
