@@ -1,76 +1,85 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://img.shields.io/badge/jest-blue)
 
-# Project Name
+# jest testing
 
-> One paragraph statement about the project.
+> jest testing
+> 
 
-![screenshot](./app_screenshot.png)
+![screenshot](https://user-images.githubusercontent.com/90524466/156592086-0a2944d8-3ca5-48a5-b2c7-c7f10344669a.png)
+
+
+<br/>
+
+# Live Demo
+
+[Live Link](https://mugishasam123.github.io/todolist-microverse/)
+
+<br/>
 
 Additional description about the project and its features.
-
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Major languages (JavaScript)
+- Framework/Libraries (React js)
+- Technologies/tools used 
+  
+  ``` bash
+  - create-react-app tool
+  - Webpack(Code Bundlng et al)
+  - Babel (code transpiling)
+  - Jest(for testing)
+  - Git(version control)
+  - ESLint(JavaScript linting)
+  - Stylelint(style linting)
 
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
+  ```
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
-### Setup
-
+ - A text editor(preferably Visual Studio Code)
 ### Install
-
+  -  [Git](https://git-scm.com/downloads)
+  -  [Node](https://nodejs.org/en/download/)
 ### Usage
+#### Clone this repository
 
-### Run tests
+```bash
+$ git clone https://github.com/mugishasam123/todolist-microverse
+.git
+$ cd todolist-microverse
 
-### Deployment
+```
+#### Run project
 
+```bash
+$ npm install
+$ npm start # this will open it in the browser and enable hot reloading
+```
 
+  <br>
 
 ## Authors
 
-👤 **Author1**
+👤 ** Mugisha Samuel**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [mugishasamuel](https://github.com/mugishasam123)
+- LinkedIn: [mugishasamuel](https://www.linkedin.com/in/mugisha-samuel-55a905208/)
+- Twitter: [mugishasamuel](https://twitter.com/mugishasamuel42/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+<br>
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/mugishasam123/todolist-microverse/issues).
+
+<br>
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
